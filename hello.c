@@ -5,6 +5,7 @@ int main()
    printf("Hello World\n");
    printf("Hello mathura\n");
    printf(" hello everyone\n");
+   printf("  everyone\n");
    printf("%d",a);
    return 0;
 }
