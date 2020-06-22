@@ -2,8 +2,7 @@
 int main()
 {
    printf("qwertytn/n");
-   printf("adfgdfg/n");
-   printf("kosi/n")
+   printf("kosi kalan/n");
    printf("dheerajjain/n");
    printf("mathura/n");
    return 0;
