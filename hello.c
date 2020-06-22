@@ -6,6 +6,5 @@ int main()
    printf("kosi/n")
    printf("dheerajjain/n");
    printf("mathura/n");
-   printf("adfgdfg/n");
    return 0;
 }
