@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main()
 {
-   printf("qwertytn");
-   printf("adfgdfg");
+   printf("qwertytn/n");
+   printf("adfgdfg/n");
+   printf("dheerajjain");
    return 0;
 }
